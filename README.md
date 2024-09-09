@@ -55,3 +55,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - [Any acknowledgements or credits you want to include, e.g., third-party libraries, tutorials, etc.]
+
+## Screenshots
+
+![Screenshot 2024-09-09 204454](https://github.com/user-attachments/assets/e0ef36b0-b92c-45aa-802e-43453ce59497)
+![Screenshot 2024-09-09 204555](https://github.com/user-attachments/assets/6f8d47e3-9189-4828-9a78-b00b760673d0)
+![Screenshot 2024-09-09 204651](https://github.com/user-attachments/assets/be4b851d-ea4c-4d89-8c71-f66b61404837)
