@@ -15,10 +15,9 @@ Welcome to the Photo Gallery App repository! This app is designed to showcase st
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- [Any additional libraries or frameworks you've used, e.g., React, Vue.js, etc.]
+ HTML
+ CSS
+ JavaScript
 
 ## Installation
 
